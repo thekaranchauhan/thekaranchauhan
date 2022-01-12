@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Chauhan.
 - 👀 I’m interested in Web, Software & Web 3.0 Development.
-- 🌱 I’m currently learning Web Development in Durham College, Canada.
+- 🌱 I’m full-stack web developer, creative front-end designer. Currently exploring web 3.0.
 - 💞️ I’m looking to collaborate on live projects.
 - 📫 How to reach me chauhankaran2399@gmail.com.
 
