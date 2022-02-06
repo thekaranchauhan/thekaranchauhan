@@ -1,3 +1,26 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<script src="https://kit.fontawesome.com/aca976c214.js" crossorigin="anonymous"></script>
+
+<p align="center">
+
+   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+  
+</p>
+
+# Hi guys 👋 I'm Karan Chauhan
+
+- ⚡ Self-taught full stack developer. Coding since 2017. 50+ projects across 🇮🇳, 🇨🇦, 🇺🇸 & 🇦🇺.
+- 🌱 Currently in last semester of Web Developmentat Durham College, Canada
+- 🔭 Currently exploring and contributing to Web 3.0
+- 👯 Open source contributor
+- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Soidity**
+- 📫 How to reach me: chat@thekaranchauhan.com
+- 😄 A human form of 💯 emojis.
+
+<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
 
 
 <p align="center">
@@ -66,6 +89,23 @@
   </a>
 </p>
 
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/thekaranchauhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thekaranchauhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thekaranchauhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+</p>
+
+  <p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/thekaranchauhan/count.svg" />
+     
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
