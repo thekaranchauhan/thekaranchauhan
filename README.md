@@ -39,11 +39,9 @@
 - 📫 How to reach me: chat@thekaranchauhan.com
 - 😄 A human form of 💯 emojis.
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-### **Languages and Technologies:**
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
