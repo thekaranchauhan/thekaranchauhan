@@ -32,7 +32,7 @@
 </p>
   <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/aliashfak178/count.svg" />
+  <img src="https://profile-counter.glitch.me/thekaranchauhan/count.svg" />
      
 </p>
 
