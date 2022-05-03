@@ -9,7 +9,7 @@
 # Hi guys 👋 I'm Karan Chauhan
 
 - ⚡ Self-taught full stack developer. Coding since 2017. 50+ projects across 🇮🇳, 🇨🇦, 🇺🇸 & 🇦🇺.
-- 🌱 Currently in last semester of Web Developmentat Durham College, Canada
+- 🌱 Graduated from  Durham College, Canada
 - 🔭 Currently exploring and contributing to Web 3.0
 - 👯 Open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Soidity**
