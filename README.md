@@ -13,7 +13,7 @@
 - 🔭 Currently exploring and contributing to Web 3.0
 - 👯 Open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Soidity**
-- 📫 How to reach me: chat@thekaranchauhan.com
+- 📫 How to reach me: hellokaranhere@outlook.com
 - 😄 A human form of 💯 emojis.
 
 <h3 align="left">Languages and Tools:</h3>
