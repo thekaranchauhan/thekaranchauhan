@@ -6,13 +6,12 @@
   
 </p>
 
-# Hi guys 👋 I'm Karan Chauhan
+# Caught you in 4k👋
 
-- ⚡ Self-taught full stack developer. Coding since 2017. 50+ projects across 🇮🇳, 🇨🇦, 🇺🇸 & 🇦🇺.
-- 🌱 Graduated from  Durham College, Canada
-- 🔭 Currently exploring and contributing to Web 3.0
+- ⚡ Full Stack Developer with the most impact on Frontend and UI/UX Researcher. Focused on Design and Business, currently building Docvi.
+- 🌱 Based in Canada
+- 🔭 Exploring GO
 - 👯 Open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Next JS** **Python** **Soidity**
 - 📫 How to reach me: hellokaranhere@outlook.com
 - 😄 A human form of 💯 emojis.
 
