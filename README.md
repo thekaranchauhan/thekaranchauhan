@@ -10,7 +10,7 @@
 
 - ⚡ Full Stack Developer with the most impact on Frontend and UI/UX Researcher. Focused on Design and Business, currently building Docvi.
 - 🌱 Based in Canada
-- 🔭 Exploring GO
+- 🔭 Improving Ruby and GO
 - 👯 Open source contributor
 - 📫 How to reach me: hellokaranhere@outlook.com
 - 😄 A human form of 💯 emojis.
