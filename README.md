@@ -8,7 +8,7 @@
 
 # Caught you in 4k👋
 
-- ⚡ Full Stack Developer with the most impact on Frontend and UI/UX Researcher. Focused on Design and Business, currently building Docvi.
+- ⚡ Always curious Full Stack Developer. Focused on Tech and Business.
 - 🌱 Based in Canada
 - 🔭 Improving Ruby and GO
 - 👯 Open source contributor
